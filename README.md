@@ -1,6 +1,6 @@
-# 🌟 ElevateLabs Internship – Machine Learning Tasks
+# ElevateLabs AI/ML Internship 
 
-This repository contains all 8 machine learning tasks completed during the **ElevateLabs Internship**, plus a final independent project titled **PlotSmith – Stories, Hand Forged by AI**.  
+This repository contains all the 8 tasks completed during the **ElevateLabs Internship**, plus a final independent project titled **PlotSmith – Stories, Hand Forged by AI**.  
 Each task demonstrates a fundamental machine learning concept using Scikit-learn, Pandas, and Matplotlib.
 
 ---
@@ -17,7 +17,7 @@ Each task demonstrates a fundamental machine learning concept using Scikit-learn
 | 6        | K-Nearest Neighbors (KNN) Classification  | Solving classification problems using the Iris dataset | [🔗 Task 6](./ElevateLabs-Task6) |
 | 7        | Support Vector Machines (SVM)                 |  Classify breast cancer diagnoses using the Wisconsin Diagnostic Breast Cancer dataset | [🔗 Task 7](./ElevateLabs-Task7)    |
 | 8        | Clustering with K-Means    | Segment mall customers into distinct groups and evaluate clustering quality using appropriate metrics  | [🔗 Task 8](./ElevateLabs-Task8)    |
-| 🔥 Final | PlotSmith – AI Story Generator       | End-to-end generative AI project using LLM + prompt engineering | [🔗 PlotSmith Repo](https://github.com/agamyaaa14/PlotSmith) |
+| Final    | PlotSmith – AI Story Generator       | End-to-end generative AI project using LLM + prompt engineering | [🔗 PlotSmith Repo](https://github.com/agamyaaa14/PlotSmith) |
 
 ---
 
